@@ -1,6 +1,6 @@
 MySQL Learning Workbook 🐬
 
-This repository contains my MySQL practice and learning journey while preparing for Data Analyst roles.
+📍This repository contains my MySQL practice and learning journey while preparing for Data Analyst roles.
 
 📚 Topics Covered
 
@@ -15,12 +15,13 @@ This repository contains my MySQL practice and learning journey while preparing 
 - GROUP BY & HAVING
 - ORDER BY
 - Subqueries
-- Stored Procedures
 - Triggers
+- Stored Procedures
 
 🛠️ Tools Used
 
 - MySQL Workbench
+
 
 🎯 Purpose
 
